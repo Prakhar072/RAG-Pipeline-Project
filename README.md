@@ -6,7 +6,7 @@ This project implements a lightweight Retrieval-Augmented Generation (RAG) pipel
 
 ## Setup
 
-install dependancies via 
+install dependancies via <br>
 ```pip install -r requirements.txt```
 
 ---
