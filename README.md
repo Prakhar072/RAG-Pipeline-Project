@@ -16,9 +16,7 @@ install dependancies via <br>
 -  **Context-aware Question Answering** using LLMs
 -  Supports embedding and retrieval from a custom document set
 -  Uses **Together AI** API for inference (e.g. Llama-3-70B)
--  FAISS-based vector search
--  Simple CLI or script interface
--  Secrets handled securely via `.env`
+
 
 ---
 
