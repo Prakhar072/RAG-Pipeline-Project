@@ -6,7 +6,8 @@ This project implements a lightweight Retrieval-Augmented Generation (RAG) pipel
 
 ## Setup
 
-install dependancies via "pip install -r requirements.txt"
+install dependancies via 
+```pip install -r requirements.txt```
 
 ---
 
@@ -33,3 +34,4 @@ Format prompt with context + query
 Send prompt to Together AI LLM via API
    ↓
 Receive and return answer
+```
